@@ -1,3 +1,7 @@
+forked to implement fixes seen here:
+https://github.com/olivierlesnicki/quantize/pull/10/commits/6082cb92b75363b5e2a78597d4b7d2d6a288e851
+
+
 quantize
 ========
 
